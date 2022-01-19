@@ -1,4 +1,4 @@
-## Olá Desenvolvedores! Me Chamo Ayrton Oliveira e aqui está os meus projetos! ![image](https://user-images.githubusercontent.com/97975293/150052113-e3f03b1c-ba49-42ea-8fb8-bf03dfb8174e.png)
+## Hello Developers! My name is Ayrton Oliveira and here are my projects! ![image](https://user-images.githubusercontent.com/97975293/150052113-e3f03b1c-ba49-42ea-8fb8-bf03dfb8174e.png)
 
 
 <div align="center">
