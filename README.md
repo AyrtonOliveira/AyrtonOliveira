@@ -1,5 +1,9 @@
 ## Hello Developers! My name is Ayrton Oliveira and here are my projects! ![image](https://user-images.githubusercontent.com/97975293/150052113-e3f03b1c-ba49-42ea-8fb8-bf03dfb8174e.png)
+<div align="center">
+<img align="center" src=https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e7-1f1f7.png>
+</div>
 
+**Counter💰, Brazilian, currently living in Recife, studying Systems Analysis and Development📚. Passionate about technology, I always seek to learn new techniques to assist in the development of new projects, having great capacity for analysis and reasoning.**
 
 <div align="center">
 <a href="https://github.com/AyrtonOliveira">
