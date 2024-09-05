@@ -12,12 +12,13 @@
 <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyrtonOliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="145" alt="languages graph"/>
 </div>
 
-
+##
 <div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Ayrton-sql" height="50" width="60" src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg">
-<img align="center" alt="Ayrton-jvs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="center" alt="Ayrton-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+<img align="center" alt="Ayrton-sql" height="45" width="55" src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg">
+<img align="center" alt="Ayrton-mysql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Ayrton-jvs" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="center" alt="Ayrton-figma" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
 ___________________________________________________________________________________________________________________________________________________________________________________
