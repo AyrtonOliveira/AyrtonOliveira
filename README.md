@@ -3,13 +3,13 @@
 <img align="center" src=https://images.emojiterra.com/google/noto-emoji/v2.028/128px/1f1e7-1f1f7.png>
 </div>
 
-**Contador💰, brasileiro, atualmente morando em Recife, estudando Análise e Desenvolvimento de Sistemas📚. Apaixonado por tecnologia, estou sempre em busca de aprender novas técnicas para auxiliar no desenvolvimento de novos projetos, com grande capacidade de análise e raciocínio.**
+**Contador💰, Brasileiro, atualmente morando em Recife, estudando Análise e Desenvolvimento de Sistemas📚. Apaixonado por tecnologia, estou sempre em busca de aprender novas técnicas para auxiliar no desenvolvimento de novos projetos, com grande capacidade de análise e raciocínio.**
 
 
 <div align="center">
 <a href="https://github.com/AyrtonOliveira">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=AyrtonOliveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonOliveira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=AyrtonOliveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonOliveira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 
