@@ -9,7 +9,7 @@
 <div align="center">
 <a href="https://github.com/AyrtonOliveira">
 <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AyrtonOliveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonOliveira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyrtonOliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="145" alt="languages graph"/>
 </div>
 
 
