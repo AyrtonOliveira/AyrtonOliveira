@@ -14,7 +14,7 @@
 
 ##
 <div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 <img align="center" alt="Ayrton-sql" height="65" width="70" src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg">
 <img align="center" alt="Ayrton-mysql" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Ayrton-jvs" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
